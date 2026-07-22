@@ -196,7 +196,6 @@ Development experience includes:
 </p>
 
 
-
 ## 🎯 Current Focus
 
 - Cloud infrastructure automation
@@ -207,16 +206,6 @@ Development experience includes:
 - Secure application deployment
 - Production reliability
 - DevOps documentation and best practices
-
-## 📚 Currently Improving
-
-- Advanced Microsoft Azure administration
-- Kubernetes production practices
-- GitOps and Argo CD
-- CI/CD security and quality controls
-- Cloud security and secrets management
-- High availability and disaster recovery
-- Platform engineering practices
 
 ## 🤝 Open to Opportunities
 
