@@ -24,7 +24,7 @@ I then moved into infrastructure and technical leadership, working with Linux, W
 
 Today, I work with cloud and production environments hosted on Microsoft Azure and OVHcloud, using Ubuntu, Windows Server, Docker, and GitLab.
 
-Alongside my professional experience, I am designing and implementing **JobWize**, a complete Cloud and DevOps platform demonstrating Infrastructure as Code, configuration automation, container orchestration, CI/CD, monitoring, and centralized logging.
+Alongside my professional experience, I am developing **JobWize**, an open-source career management platform built to demonstrate modern Software Engineering, DevOps, and Cloud Native practices.
 
 ---
 
@@ -42,23 +42,22 @@ It centralizes:
 - Resumes and supporting documents
 - Dashboards and analytics
 
-Beyond its functional purpose, JobWize is designed as a real-world Software Engineering, Cloud, and DevOps project.
+Beyond its functional purpose, JobWize is being developed as a professional open-source project that applies modern Software Engineering, DevOps, and Cloud Native practices.
 
-### DevOps Architecture
+### Project Architecture & Stack
 
-- Microsoft Azure cloud infrastructure
-- Separate Development, Staging, Production, and Monitoring environments
-- Infrastructure provisioning with Terraform
-- Ubuntu server configuration with Ansible
-- Application containerization with Docker
+- Blazor WebAssembly frontend with MudBlazor
+- ASP.NET Core Web API on .NET 10
+- Modular Monolith based on Clean Architecture principles
+- PostgreSQL 17 with Entity Framework Core
+- Redis for caching and MinIO for document storage
+- Docker and Docker Compose
+- Infrastructure tooling with Terraform and Ansible
 - Kubernetes orchestration with K3s
-- Application deployment using Helm
-- GitLab CI/CD pipelines
-- Monitoring with Prometheus and Grafana
-- Centralized logging with Loki
-- Alert management with Alertmanager
-- TLS certificate and secrets management
-- Backup and recovery strategy
+- GitLab CI/CD workflow
+- Observability stack based on Prometheus, Grafana, Loki, and Alertmanager
+
+> JobWize is currently under active development. The repository README and roadmap describe both implemented and planned capabilities.
 
 <div align="center">
 
@@ -195,6 +194,7 @@ Development experience includes:
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
+---
 
 ## 🎯 Current Focus
 
